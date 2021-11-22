@@ -1,0 +1,5 @@
+#C Row 1: Statorless
+#C Row 2: Strictly volatile
+x = 22, y = 16, rule = B35/S135
+bo$o5b2o$o2b3obo$5bobo$5bo3$4bo2bo10b2o$4bo2bo7bo2b2o$2o2bo2bo2b2o3bo
+2bo$2o8b2o3bo2b2o$4bo2bo9bobo$4bo2bo9b2o2bo$18bo2bo$17b2o2bo$17b2o!
