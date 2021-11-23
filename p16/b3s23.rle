@@ -1,0 +1,5 @@
+#C Row 1: Statorless
+#C Row 2: Strictly volatile
+x = 13, y = 26, rule = B3/S23
+7b2o$7bobo$2bo4bob2o$b2o5bo$o2bo$3o2$10b3o$9bo2bo$4bo5b2o$2b2obo4bo$3b
+obo$4b2o5$5b2o$2bo2b2o$bo4bo$bo4bo$6bo$2obobo$2ob2o2$5b3o!
