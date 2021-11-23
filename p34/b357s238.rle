@@ -1,0 +1,4 @@
+#C Row 1: Strictly volatile
+x = 19, y = 19, rule = B357/S238
+5bo$4bobo$4bo2bo$5b2o$b2o$o2bo$bobo4b3o$2bo$6bo5bo$6bo5bo$6bo5bo$16bo
+$8b3o4bobo$15bo2bo$16b2o$12b2o$11bo2bo$12bobo$13bo!
