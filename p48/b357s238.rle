@@ -1,0 +1,5 @@
+#C Row 1: Strictly volatile
+x = 17, y = 17, rule = B357/S238
+7b3o$6bo3bo$6bobobo$6b2ob2o2$7b3o$b3o3b3o3b3o$o2bob2o3b2obo2bo$obo2b2o
+3b2o2bobo$o2bob2o3b2obo2bo$b3o3b3o3b3o$7b3o2$6b2ob2o$6bobobo$6bo3bo$7b
+3o!
