@@ -1,8 +1,0 @@
-#C Row 1: Statorless
-x = 42, y = 44, rule = B3/S23
-11bo$9b4o11b2o$8b4o12bobo$26bo$24b3o10b2o$2b3o4bo27b2o$4bo3bobo$6ob2o
-bo$6obo16b3o$2o3bo5bo14bo$10b2o12bobo$4b2o18b2o$2bo3bo2b3o$bo$bo4bo3$
-32b3o3b3o$31bo2bo3bo2bo$31b2obo3bob2o5$2obo3bob2o$o2bo3bo2bo$b3o3b3o3$
-35bo4bo$40bo$30b3o2bo3bo$16b2o18b2o$15bobo12b2o$15bo14bo5bo3b2o$15b3o
-16bob6o$31bob2ob6o$31bobo3bo$3b2o27bo4b3o$3b2o10b3o$15bo$15bobo12b4o$
-16b2o11b4o$30bo!
