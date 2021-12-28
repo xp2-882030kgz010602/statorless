@@ -89,7 +89,19 @@ var search=function(minrule,maxrule,p,labels){
   }
   return results;
 };
-var makeRLE=function(entry,rule){
+var makeRLE=function(entry){
+  var rule="B";
+  for(var i=0;i<7;i++){
+    if(entry.minrule[i]==="1"){
+      rule+=(i+2);
+    }
+  }
+  rule+="/S";
+  for(var i=7;i<16;i++){
+    if(entry.minrule[i]==="1"){
+      rule+=(i-7);
+    }
+  }
   var RLE="";
   RLE+="#C Minrule: "+entry.minrule+"\n";
   RLE+="#C Maxrule: "+entry.maxrule+"\n";
@@ -111,7 +123,7 @@ var makeRLEs=function(minrule,maxrule,p,labels){
   var entries=search(minrule,maxrule,p,labels);
   var RLEs=[];
   for(var i=0;i<entries.length;i++){
-    var RLE=makeRLE(entries[i],minrule);//This is arbitrary, as is pretty much any other choice.
+    var RLE=makeRLE(entries[i]);
     RLEs.push(splitRLE(RLE));
   }
   return RLEs;
