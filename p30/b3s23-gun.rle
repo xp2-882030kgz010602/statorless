@@ -1,7 +1,0 @@
-#C Row 1: Strictly volatile
-x = 40, y = 40, rule = B3/S23
-25b2o$23bo3bo$14bo7bo5bo$14bobo4b2obo3bo$17b2o3bo5bo$17b2o4bo3bo$17b2o
-6b2o$14bobo$14bo3$2b3o$bo3bo$o5bo$o5bo24b2o3b2o$3bo$bo3bo26bo3bo$2b3o
-28b3o$3bo29b3o3$4b3o29bo$4b3o28b3o$3bo3bo26bo3bo$36bo$2b2o3b2o24bo5bo
-$33bo5bo$34bo3bo$35b3o3$25bo$23bobo$13b2o6b2o$12bo3bo4b2o$11bo5bo3b2o
-$11bo3bob2o4bobo$11bo5bo7bo$12bo3bo$13b2o!
